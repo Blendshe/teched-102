@@ -367,142 +367,231 @@ VSC is the Terminal
 
 **Task:** 
 
-Clone github into VSC
+- Clone github into VSC
 
-Go to folder class-102
+- Go to folder class-102
 
-Click code, under HTTPS
+- Click code, under HTTPS
 
-Copy code
+- Copy code
 
-Go to bottom right terminal – go to folder and click desktop then type git(space)clone(space) and paste link from git
+- Go to bottom right terminal – go to folder and click desktop then type git(space)clone(space) and paste link from git
 
-Cd(space) click TAB button type cls (clear screen) gets a clear space in VCS
+- Cd(space) click TAB button type cls (clear screen) gets a clear space in VCS
 
-Type ls(TAB) then (TAB) again and lists my folders and to get to the one you want press ENTER or TAB
+- Type ls(TAB) then (TAB) again and lists my folders and to get to the one you want press ENTER or TAB
 
-All this to open the folder in VSC 
+> All this to open the folder in VSC 
 
-Can’t write code in github – just files and folders
 
-VSC write the code
+In VSC you write the code - Can’t write code in github – just files and folders
 
-Github ACP
-Git(space)add(space).(press enter)
-TERMINAL is a space for configuring things 
-Git(space)commit(space)-m
-To push changes to github
-Git push 
-(I don’t understand this very well) 
+**Github ACP**
 
-Class 4 24.01.23
-Submit a github repo in 101, 201 section of CANVAS
-Wireframe
+- Git(space)add(space).(press enter)
+
+- TERMINAL is a space for configuring things 
+
+- Git(space)commit(space)-m
+
+- To push changes to github
+
+- Git push 
+
+*I don’t understand this very well*
+
+**Class 4 24.01.23**
+
+*Submit a github repo in 102 section of CANVAS*
+
+**Creating a website**
+
 Rough sketch, hand drawn send to front end developer to do a mock-up, then send to someone who creates a prototype
+
 3 stages  - 1 and 2 are hand-drawn 
-Wireframe   
-mockup  
-prototype 
-time consuming and difficult, legal reasons – copyright? 
+
+1. Wireframe   
+2. mockup  
+3. prototype 
+
+time consuming and difficult, important for legal reasons – copyright? 
+
 Structuring a webpage
-HTML
-used Repl.it
-Use VSC
-<!DOCTYPE html> only use once, a document for html
-<html>
-<head>
+
+**HTML**
+
 Configuring for website
-</head>
-<body>
+
+``
+`<!DOCTYPE html>` only use once, a document for html
+`<html>`
+`<head></head>`
+`<body>`
 Where write something
-</body>
+`</body>`
+`</html>`
+
 Anchor tag takes to another page 
-What is <h ref> relation to anchor tag? It’s an attribute, a feature
-<a  - anchor
-<h ref reference 
-<a hrefwww.youtube.com/click here</a>
-<img – image
-<src – source
-<img src=”image address here”</img>
+`<h ref>` relation to anchor tag is an attribute, a feature
+
+`<a  - anchor`
+
+`<h ref` hyper reference 
+
+`<a href www.youtube.com/click here</a>`
+
+`<img` – image
+
+`<src` – source
+
+`<img src=”image address here”</img>`
+``
+
 Rendering means display – converting code to a webpage
-Task – submit for LAB4, Class 8 (102 repo index.html)
-Bullet list in html
-<oi> is ordered  - numbered - list 
-Table in html
-<table>
-<tr> is table row
-<th> month</th> = table header
-<th>savings</th> = table header
-</tr>
-<tr>
-<td>January</td>
-</tr>
+
+**Task – submit for LAB4, Class 8 (102 repo index.html)**  
+
+``
+Bullet list in html `<ul></ul>`  
+
+`<oi>` is ordered  - numbered - list
+``
+
+**Table in html**
+``
+`<table>`  
+
+`<tr>` is table row
+
+`<th>month</th>` is the table header
+
+`<th>savings</th>` is the table header
+
+`</tr>`
+
+`<tr>`
+
+`<td>January</td>`
+
+`</tr>`
+
 </table>
-DIV tag 
-<div> in a div you can make anything, it’s a section
-Can have other DIV tags, helps people who read the code 
 
-Class 10 27.01.23
-First stage html part, second part is css
-DIV – divisiob between parts/areas of the page
-CSS – styling
-Attribute – use to style “ “ 
-Div style=”border:1px solid black;”>
-Style give to opening tags not the closing tags
-; gives the next value and inside quotes e.g. background color
-Nested – like a nesting or a Russian Doll, all exists inside 
-Saturation or transparency – alpha channel (?)
-For color can use rgb or Hex format
-WEBSITE – ‘flat ui colors’ gives lovely colours and palettes
+**DIV tag**  
+``
+`<div>` in a div you can make anything, it’s a section 
 
-Class ?  Lesson ? 30.01.23
-How do we put js in html? 
-With <script></script>tag 
-Use // inside the SCRIPT tag for commenting in js – for me to understand what I have done
-Render  - how code is displayed on the front end 
-Console (screwdriver icon)
-Terminal area in the browser.  Space available allows you to check and run code for js
-Console.log – use this write something you want e.g. explain
-Another tool to check code is ‘alert’
-ALERT
-Check if the page has loaded or not 
-VARIABLE
-Like a box
-Var firstName=prompt(‘enter your name’); console.log(firstName+’is cool’);
-A space you can make in the computer
-Can only use a particular variable once for a value in one website as computer commits it to memory 
-//condition
-If this then that 
-TASK 
-Age – hey welcome
-Back 
-Location – hey welcome
-Back 
+DIV – division between parts/areas of the page  
+
+Can have other DIV tags, helps people who read the code     
+
+**Class 10 27.01.23**  
+``
+`<head></head>` First stage html part, `<body></body>` second part is CSS 
+
+> CSS – styling  
+
+Attribute – use to style “ “   
+
+`<Div style=”border:1px solid black;”/>`  
+
+Style give to opening tags not the closing tags   
+
+; gives the next value and inside quotes e.g. background color   
+
+Nested – like a nesting or a Russian Doll, all exists inside    
+
+Saturation or transparency – alpha channel (?)   
+
+For color can use rgb or Hex format   
+
+See the website ‘flat ui colors’ gives lovely colours and palettes
+https://flatuicolors.com/
+
+
+**Class ?  Lesson ? 30.01.23**   
+
+How do we put js in html?    
+``
+With `<script></script>` tag    
+
+Use // inside the SCRIPT tag for commenting in js – for me to understand what I have done   
+
+Render  - how code is displayed on the front end    
+
+Console (screwdriver icon) is the Terminal area in the browser.  Space available allows you to check and run code for js   
+
+Console.log – use this write something you want e.g. explain   
+
+Another tool to check code is ‘alert’to e.g. check if the page has loaded or not 
+
+**Variable**
+
+Like a box inside the computer where it puts things to remember - a space you in the computer.  Can only use a particular variable once for a value in one website as computer commits it to memory 
+
+Var firstName=prompt(‘enter your name’);   
+
+console.log(firstName+’is cool’);   
+
+**Condition**   
+
+If this then that    
+
+**TASK**
+
+Age – hey welcome back     
+
+Location – hey welcome back    
+
 //put text in
-Class 9? Day 12 12 31.01.23
-Js
-<head> for configuring of js
-<H1>heading 
-Console.log – log a form of writing 
-Browser – console  - inspect code
-Var – a variable is a memory name for computer
-Debugging – removing errors
-Var prompt(‘enter your name’)
-Conditions - if and else 
 
-Event, Event listener, event handler
-Event – on a website, when human interacts with computer <button onclick=”execute blah blah”{
-Event listener – not a function, piece of code initiating when something happening – on click, on refresh, on mouseHover
-Calling a function – talk to the function to do something, when event listeners is event handler calling a function – talking to function as event happened and event handler to do something
-Eventhandler – a function, executes, a block of code that handle what happen when an event occurs, 
-DON’T USE LOCALTION, just LOC as this means something different to the computer
-Task
-Create a button
-Add an event listener to it 
-Create an eventhandler with a proper name
-Execute some piece of code when the event occurs in console.log
-Update github READ.ME repo – v posted on Discord
-My Discord post on 31.01.23 is wrong.  Repl.it 21.01.23 is correct
+**Class 9? Day 12 31.01.23**   
+
+Js
+``
+`<head>` for configuring of js   
+
+`<H1>` heading   
+``   
+
+Console.log – log a form of checking the code is working   
+
+In the browser – *Console* enables you to inspect the code   
+
+Var – a variable is a memory name for computer   
+
+Debugging – removing errors   
+
+Var prompt(‘enter your name’)   
+
+Conditions - if and else   
+
+**Event, Event listener, event handler**  
+
+Event – on a website, when human interacts with computer    
+
+``
+`<button onclick=”execute blah blah”` 
+{   
+``   
+
+Event listener – not a function, piece of code initiating when something happening – on click, on refresh, on mouseHover   
+
+Calling a function – talk to the function to do something, when event listeners is event handler calling a function – talking to function as event happened and event handler to do something   
+
+Eventhandler – a function, executes, a block of code that handle what happen when an event occurs   
+
+DON’T USE THE WORD LOCALTION, just LOC as this means something different to the computer
+
+**Task**   
+
+1. Create a button
+2. Add an event listener to it 
+3. Create an eventhandler with a proper name
+4. Execute some piece of code when the event occurs in console.log
+5. Update github READ.ME repo – v posted on Discord   
+
+*My Discord post on 31.01.23 is wrong.  Replit 21.01.23 is correct*
 
 Body is front-end of website.  Html inside <body>
 Configuration <head</head>, <script></script>, <style></style> and others
