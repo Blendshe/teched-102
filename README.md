@@ -194,19 +194,23 @@ Computer language is binary – 1 and 0 – ASCII, machine code, understood by t
 
 Charles Babbage and Ada Lovelace then Alan Turing (see film The Enigma Machine)
 
-Tags
-<oi> ordered list
+**Tags**
+
+``
+`<oi>` ordered list
   
-<li>
+`<li>`
   
-<src>””</src> source 
+`<src>””</src>` source 
   
-<p></p> paragraph 
+`<p></p>` paragraph 
   
-<br> break
+`<br>` break
   
-<a href> anchor and hyper reference for a hyperlink 
-  
+`<a href>` anchor and hyper reference for a hyperlink 
+
+``
+
 **Structure of coding**
   
 Head (the brain)
@@ -214,6 +218,7 @@ Head (the brain)
 Body (your appearance)
 
 Semantic tags 
+
 Commit to new file = save 
 
 Pair programming  = tech speak for collaboration
@@ -235,94 +240,153 @@ Developer tools, configuration set up so everything works
     
 These are categories of toolkit
 
-- Repl.it is a code editor, a platform where you can write and run code
-- VSC is a platform
-- Terminal – not programming language, code editor to work with computer. Create a folder, move a folder – something you want to do in a computer - Terminal commands? 
+- Replit is a code editor, a platform where you can write and run code
 
-    > Dir – directory
-Cd – present working directory- where I am in the computer
+- VSC is a platform
+
+**Terminal**
+
+Not programming language, a code editor to work with computer. Create a folder, move a folder – something you want to do in a computer. 
+
 Linux is the operating language of the computer
+
+Terminal commands:
+
+> Dir – directory
+>  
+> Cd – present working directory- where I am in the computer
+
+Visual Studio Code (VSC) VSC is the DEPENDENCY for github.
+
+View the terminal 
+
+> ls – lists – see how many files and folders you have as it lists the contents of the directory you are in 
+>
+> pwd – present working directory
+>
+> cd(space) – name of folder
+>
+> cd(space).. – takes you back to parent folder
+
+**Task**
+
+- Using the VSC terminal 
+
+- Create new file
+
+- Create new folder 
+
 MERN is the library of js
+
 80% of developers language – the concepts are the same
+
 Different languages are better for different things 
+
 js better for web, only language that works on a web browser.  General language used for anything
+
 Pyhon – better for machine learning
+
 Rust – cloud servers
 
 
-Lesson 4 (? Check)
-Class 4 19.01.23
-VSC
-View the terminal 
-ls – lists – see how many files and folders you have as it lists the contents of the directory you are in 
-pwd – present working directory
-cd(space) – name of folder
-cd(space).. – takes you back to parent folder
-Task? 
-Using the VSC terminal 
-Create new file
-Create new folder 
-Git and Github
-Git interacts with Github – twins, Git is a friend of Github.  Git is the dependency where you can work with Github
+### Lesson 4 (? Check) Class 4 19.01.23
+
+**Git and Github**
+
+Git interacts with Github – twins, Git is a friend of Github.  
+
+Git is the dependency where you can work with Github
+
 Together is a version control system
-Repository – repo – project in a folder, other people can contribute to my repo = public
-If private I have to give permission
-Dependency
+
+Repository – repo – project in a folder, other people can contribute to my repo = public.  If private I have to give permission
+
+**Dependency**
+
 Code to facilitate working with website, app or whatever – VSC 
+
 A super power, facilitates getting e.g. the weather 
+
 Analogy, a mobile phone facilitates calling a friend, a toolkit that gets the tools for you
+
 Node is a dependency
-npm – node package manager – a registry of all the tools on the internet 
-js world
-other worlds e.g. python
-node Is the toolkit that goes to the npm – node is the dependency
+
+**npm – node package manager** – a registry of all the tools on the internet 
+
+js world other worlds e.g. python
+
+**node** is the toolkit that goes to the npm – node is the dependency
+
 dependency goes to the npm to get the tools
-Terminal on my computer is Command Prompt 
 
-Lesson 5
-Class ? 20.01.23
+Terminal on my computer is **Command Prompt**
+
+**Lesson 5 Class ? 20.01.23**
+
 Node is a framework
-Command on node system
-Command prompt
-Making a new folder
-Making a new file
-Moving from one to the another
-npm 
-dependency
-extensions or add-ons – can download and they add extra functionality, add support for other tools.
-Collaborating on Github
-This was a task 
-Used branching – main branch
-Pull request
-Bring changes/synch changes to my branch
-When someone makes a change you can merge to your branch
-Fork
-Like branching but without editing access
-A fork – a new repository without affecting the original.  The person who created the fork and made changes sends a message to the author/originator to ask if they want to merge.  Author can look at changes and make a decision as to whether to merge. Preview the merge before commit
-Click on READ.ME and click on file changed and what has changed is in blue
-You can do Open Source but not give write access and still Open Source so people can suggest changes that request via Pull Request to V
 
-Gitinit
-Git initialization – starting the process of starting git with github 
+Command on node system
+
+Command prompt
+
+Making a new folder
+
+Making a new file
+
+Moving from one to the another
+
+extensions or add-ons – can download and they add extra functionality, add support for other tools.
+
+**Task: Collaborating on Github**
+ 
+Used branching – main branch
+
+Pull request
+
+Bring changes/synch changes to my branch
+
+When someone makes a change you can merge to your branch
+
+Fork - like branching but without editing access.  A fork is a new repository without affecting the original.  The person who created the fork and made changes sends a message to the author/originator to ask if they want to merge.  Author can look at changes and make a decision as to whether to merge. Preview the merge before commit.  CLick on READ.ME and click on file changed and what has changed is in blue
+
+You can do Open Source but not give write access and still Open Source so people can suggest changes that request via Pull Request 
+
+Gitinit - Git initialization – starting the process of starting git with github 
+
 Creating a secure connection between git and github
+
 Local machine with your github
+
 VSC to github via git
 
-Class 5 (3 on syllabus) 23.01.23
+**Class 5 (3 on syllabus) 23.01.23**
+
 Repos – folder with files – github repos – a collection of files you’ve told git to pay attention to 
+
 VSC is the Terminal 
-Task (?)
+
+**Task:** 
+
 Clone github into VSC
+
 Go to folder class-102
+
 Click code, under HTTPS
+
 Copy code
+
 Go to bottom right terminal – go to folder and click desktop then type git(space)clone(space) and paste link from git
+
 Cd(space) click TAB button type cls (clear screen) gets a clear space in VCS
-Type ls(TAB) then (TAB) again and lists my folders and o get to the one you want press ENTER or TAB
+
+Type ls(TAB) then (TAB) again and lists my folders and to get to the one you want press ENTER or TAB
+
 All this to open the folder in VSC 
-VSC is the DEPENDENCY for github.
+
 Can’t write code in github – just files and folders
+
 VSC write the code
+
 Github ACP
 Git(space)add(space).(press enter)
 TERMINAL is a space for configuring things 
