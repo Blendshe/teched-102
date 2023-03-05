@@ -593,18 +593,31 @@ DON’T USE THE WORD LOCALTION, just LOC as this means something different to th
 
 *My Discord post on 31.01.23 is wrong.  Replit 21.01.23 is correct*
 
-Body is front-end of website.  Html inside <body>
-Configuration <head</head>, <script></script>, <style></style> and others
-Class 8, part 2 Day 13 01.02.23
-Code, READ.ME is github
-CANVAS – paste links to github
-Put links into CANVAS and github every 2 days
-Js needs to be hosted by html as can’t exist outside browser
-<!DOCTYE html>
-CSS
-Style attribute inside the <h1 style =”color red:”?
-Learning about identities – ids </h1>
+Body is front-end of website.  Html inside `<body>`   
+
+Configuration `<head</head>, <script></script>, <style></style>` and others   
+
+
+**Class 8, part 2 Day 13 01.02.23**   
+
+Code, READ.ME is github   
+
+CANVAS – paste links to github   
+
+Put links into CANVAS and github every 2 days   
+
+Js needs to be hosted by html as can’t exist outside browser   
+
+**CSS**   
+
+Style attribute inside the `<h1 style =”color red:”`   
+
+Learning about identities – ids   
+
 js in <script> tags
+
+    
+    
 <style><h1{color:red;}</style>
 Create a class (a group of the same things) to make changes to code where you have lots of it and more efficient than by hand. <style>.fizzwizz{color:green;font-family:claibri:
 To create another variation can use another class
