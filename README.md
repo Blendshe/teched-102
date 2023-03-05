@@ -1,8 +1,32 @@
 # Teched-102
 
+### Overall in the 102 course, we have studied:
+
+- using MarkDown syntax to create readme files
+- basic HTML and the meanings of various tags
+- using GitHub
+- creating a repository in GitHub
+- populating the GitHub repository with files and editing them in GitHub
+- using Visual Studio Code
+- using the terminal/command line
+- using Git to clone copies of our repositories to our local machine
+- editing and creating files in the locally checked-out version
+- pushing local changes back to the repository on GitHub
+- ACP (add, commit, push)
+- creating a brand new project in Visual Studio Code
+- pushing the new project to GitHub as a new repository
+
+<br>
+
+### We also learned the basic procedure for creating a website/app:
+- creating a wireframe diagram of a website/app
+- creating a mockup of a website/app
+- *(Pending)* creating a prototype from that mockup for customer approval
+
 ### Lesson 1 | Class 1 16.01.23 
 
 **Github**
+
 An online space - a platform or online repository where you can write code, which allows you to build code and practice.  It's a content management for different version when you're writing code.  You can save different versions of your code so if your new version doesn’t work you can look back at your previous/earlier version and see why.
 
 READ.ME file is very important
@@ -17,7 +41,7 @@ Markdown is a combination of documentation, has own syntax and rules, combinatio
 
 https://www.markdownguide.org/basic-syntax/
 
-**Task: the index.html file is a single page of html of a website of fantasy worlds and an appreciation of V created by George and I
+**Task:** the index.html file is a single page of html of a website of fantasy worlds and an appreciation of V created by George and I
 
 We used
 - body 
@@ -27,6 +51,63 @@ We used
 - image tags
 
 **Markdown syntax**
+
+#### Code
+
+To write code in markdown, for code over a single line, you can use backticks enclosing the code, for example:
+
+`<html></html>`
+
+To write a block of code, you can indent each line by 4 spaces:
+
+    <html>
+        <head>
+        </head>
+    </html>
+
+Alternativly, you can use 3 backticks.
+
+```
+<html>
+
+    <head>
+
+    </head>
+
+    <body>
+
+    </body>
+
+</html>
+
+```
+
+#### Unordered and Ordered Lists
+
+To make an unordered list, you can use either the `-` key, the `*` key, or the `+`. For example:
+
+```
+    - List Item
+    - List Item
+
+```
+
+```
+    + List Item
+    + List Item
+```
+
+```
+    * List Item
+    * List Item
+```
+
+To make an ordered list, you can simply use the numbers:
+
+```
+    1. List Item
+    2. List Item
+```
 
 # heading
 
@@ -46,6 +127,38 @@ Ordered list:
   3. Third item
 
 [title](https://www.example.com)
+
+Blockquotes
+To create a blockquote, add a > in front of a paragraph.
+
+> Dorothy followed her through many of the beautiful rooms in her castle.
+The rendered output looks like this:
+
+Dorothy followed her through many of the beautiful rooms in her castle.
+
+Blockquotes with Multiple Paragraphs
+Blockquotes can contain multiple paragraphs. Add a > on the blank lines between the paragraphs.
+
+> Dorothy followed her through many of the beautiful rooms in her castle.
+>
+> The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
+The rendered output looks like this:
+
+Dorothy followed her through many of the beautiful rooms in her castle.
+
+The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
+
+Nested Blockquotes
+Blockquotes can be nested. Add a >> in front of the paragraph you want to nest.
+
+> Dorothy followed her through many of the beautiful rooms in her castle.
+>
+>> The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
+The rendered output looks like this:
+
+Dorothy followed her through many of the beautiful rooms in her castle.
+
+The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
 
 horizontal rule see below 
 
