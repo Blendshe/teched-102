@@ -571,9 +571,10 @@ Conditions - if and else
 Event – on a website, when human interacts with computer    
 
 ``
-`<button onclick=”execute blah blah”` 
-{   
-``   
+`<button onclick=”execute blah blah”`   
+
+{`   
+   
 
 Event listener – not a function, piece of code initiating when something happening – on click, on refresh, on mouseHover   
 
@@ -614,56 +615,81 @@ Style attribute inside the `<h1 style =”color red:”`
 
 Learning about identities – ids   
 
-js in <script> tags
-
+js in `<script>` tags   
     
-    
-<style><h1{color:red;}</style>
-Create a class (a group of the same things) to make changes to code where you have lots of it and more efficient than by hand. <style>.fizzwizz{color:green;font-family:claibri:
-To create another variation can use another class
-Create a class called ‘fruit’
-.fruit{coloe:blue;font-family:cursive;border:1px dashed green;text-shadow:2px 10px red;}
-Can check if repl.it gone wrong check if code is ok in VSC
-<style> and CSS
-Class posted on Discord 01.02.23 – pinned
-Another way to create a unique is create and id, use individually, unique, one time
-<h1 id=’my mind goes blank”{color:purple;font-family:fantasy:}
-.document GetElementById (“My mind goes blank”)
-Id used for styling CSS and js
-js very powerful and can affect html
+`<style>
+<h1{color:red;}</style>`   
 
-Day 14 Class 9 02.02.23 - revision
-Markdown
-READ.ME
-Dependency 
+**Class**   
+
+Create a class (a group of the same things) to make changes to code where you have lots of it and more efficient than by hand.    
+
+`<style>.fizzwizz{color:green;font-family:claibri:   
+
+To create another variation can use another class   
+
+Create a class called ‘fruit’   
+`
+.fruit{color:blue;   
+font-family:cursive;   
+border:1px dashed green;   
+text-shadow:2px 10px red;   
+}`   
+
+Can check if replit gone wrong check if code is ok in VSC   
+
+`<style>` and CSS
+
+Another way to create a unique is create an id, use individually, unique, one time
+
+`<h1 id=’my mind goes blank” {    
+ color:purple;   
+ font-family:fantasy;   
+ }   
+     
+.document GetElementById (“My mind goes blank”)`   
+     
+Id used for styling CSS and js   
+     
+js very powerful and can affect html.  js only used in web browser makes html manipulate tags on page 
+     
+**Day 14 Class 9 02.02.23 - revision**   
+     
+- Markdown
+- READ.ME
+- Dependency 
+
 Class 3
-Git is dependency to connect to github, for versioning
-Github – version control, branches, control management, system, push changes
-Forks
-Node is platform
-Repl.it – code editor online – render
-VSC – local machine editor:cd, pwd,ls,mkdr
+- Git is dependency to connect to github, for versioning
+- Github – version control, branches, control management, system, push changes
+- Forks
+- Node is platform
+- Replit – code editor online – render
+- VSC – local machine editor:cd, pwd,ls,mkdr   
+     
 Class 4
-Wireframe, mock-up, prototype (structure, color, blueprint to client)
-Html to make website
-CSS to style
-DIV put into different sections of website – divisions
-CSS and color layout
-Style attribute – in line styling or colors, HEX, name f color, RGB
-js only used in web browser makes html manipulate tags on page
-console.log 
-variable – define and memory remembers the value
-conditions – if, else
-terminal – for file management commands
-script tags in body tag
-js at the bottom after the last one
-#document
-Element + tag mean the same objects in a document
-CHECK DISCOD POST 02.02.23
-Loops – for is a loop
-Repeats
-3 ways writing js
-//function code here
+- Wireframe, mock-up, prototype (structure, color, blueprint to client)
+- Html to make website
+- CSS to style
+- DIV put into different sections of website – divisions
+- CSS and color layout
+- Style attribute – in line styling or colors, HEX, name f color, RGB
+- console.log 
+- variable – define and memory remembers the value
+- conditions – if, else
+- terminal – for file management commands
+- script tags in body tag
+- js at the bottom after the last one
+- #document
+- Element + tag mean the same objects in a document
+
+**CHECK DISCOD POST 02.02.23**   
+     
+- Loops – for is a loop
+- Repeats
+- 3 ways writing js
+
+ //function code here
 (for (1;2;3){
 //1)var i = 0;
 //2) i is <60
@@ -675,7 +701,8 @@ Line 34-37 in { is the loop
 19.52 Carla posted a working lop in Discord
 All progamming language inbuilt method, has an array – a list of records
 //write the logic
-Console.log(i);
+Console.log(i);   
+    
 Array
 Var name = [“George,””Jane,””Paisley,”£Carla,””V”]
 Memory efficient drawio screenshot insert here 
@@ -695,55 +722,36 @@ Carla
 V
 
 
-Array is in square brackets [ ]
-Name [index]
-Name [1] is my name
-What if 100 names?
-Loop -basic building block for any application
-After screenshot see discord 20.13
-To make this more effiecit e.g. if have 97
-Inbuilt mrthod – length
-Array js – uses square brackets 
-Use .length rather than no 5 or fowever many as array may continue to grow by automation and so doesn’t need amending 
-Length is a property of an array – see screenshot in loop section
-Loop could add to an array, delete data, replace dates
-No of values in brackets 
-See Discord post 20.28
+Array is in square brackets [ ]   
+    
+Name [index]   
+    
+Name [1] is my name   
+    
+What if 100 names?   
+    
+     
+Loop -basic building block for any application   
+    
+After screenshot see discord 20.13   
+    
+To make this more effiecit e.g. if have 97   
+    
+Inbuilt mrthod – length   
+        
+Array js – uses square brackets   
+    
+Use .length rather than no 5 or fowever many as array may continue to grow by automation and so doesn’t need amending   
+    
+Length is a property of an array – see screenshot in loop section   
+    
+Loop could add to an array, delete data, replace dates   
+    
+No of values in brackets   
+    
+*See Discord post 20.28*   
+    
 For loop e.g. google search says how long it took to search 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ##### class 04 was about html.  
@@ -757,4 +765,4 @@ I learnt the following html tags
 - head is for the header
 - body where write something for your page 
 - h1 is the biggest heading and continues in ascending numbers but the size of the heading gets smaller
-- 
+
