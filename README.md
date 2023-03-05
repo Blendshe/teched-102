@@ -216,24 +216,30 @@ Body (your appearance)
 Semantic tags 
 Commit to new file = save 
 
-Pair programming  = geeky speak for collaboration 
+Pair programming  = tech speak for collaboration
 
-Lesson 2 Lab 1b 
-Class 3 18.01.23
-Configuration and Terminal
+**Lesson 1 Lab 1b**
+    
+### Class 3 18.01.23
+    
+**Configuration and Terminal**
+    
 Need tools to do web development front-end and back-end
-Developer tools
-Config – set up so everything works
-Toolkit
-Development
-Testing
-Production 
+    
+Developer tools, configuration set up so everything works
+    
+- Toolkit
+- Development
+- Testing
+- Production 
+    
 These are categories of toolkit
-Repl.it is a code editor, a platform where you can write and run code
-VSC is a platform
-Terminal – not programming language, code editor to work with computer. Create a folder, move a folder – something you want to do in a computer
-Terminal commands? 
-Dir – directory
+
+- Repl.it is a code editor, a platform where you can write and run code
+- VSC is a platform
+- Terminal – not programming language, code editor to work with computer. Create a folder, move a folder – something you want to do in a computer - Terminal commands? 
+
+    > Dir – directory
 Cd – present working directory- where I am in the computer
 Linux is the operating language of the computer
 MERN is the library of js
