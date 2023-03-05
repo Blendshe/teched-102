@@ -1,38 +1,32 @@
-# teched-102
-this repo contains 102 course material
+# Teched-102
 
-102 
-Lesson 1 | Class 1 16.01.23
-Github
-A platform where you can write code, an online space,  allows you to build code and practice
-content management for versions  - make v1.0 but working on V5 can make that live and test it.  You can save different versions of your code so if your new version doesn’t work you can look back at your previous/earlier version and see why.
-online repository  - project folders 
-versioning  - v1.0, v1.1, v1.2 etc 
-READ.ME file is very important 
-Markdown .md is very specific for Github and Discord – computer doesn’t understand it.
-Different way of formatting text so differet browsers understand the READ.ME file.  99% of the time a .md file will be a READ.ME file
-Can use # or code e.g. <h1></h1> or # (heading 1 – the biggest, through 2,3,4,5,6
-Combination of documentation, has own syntax and rules, combination of text and coding 
+### Lesson 1 | Class 1 16.01.23 
+
+**Github**
+An online space - a platform or online repository where you can write code, which allows you to build code and practice.  It's a content management for different version when you're writing code.  You can save different versions of your code so if your new version doesn’t work you can look back at your previous/earlier version and see why.
+
+READ.ME file is very important
+
+Markdown .md is very specific for Github and Discord – the computer doesn’t understand it.
+
+It's a different way of formatting text so differet browsers understand the READ.ME file.  99% of the time an .md file will be a READ.ME file
+
+Can use # or code e.g.  # (heading 1 – the biggest, with bigger numbers resulting in smaller headers e.g. 2,3,4,5,6)
+
+Markdown is a combination of documentation, has own syntax and rules, combination of text and coding 
+
 https://www.markdownguide.org/basic-syntax/
 
-# class-01-102-new
-reading notes markdown sample
+**Task: the index.html file is a single page of html of a website of fantasy worlds and an appreciation of V created by George and I
 
-This is where i will be creating the markdown
-
-# index.html file 
-is a single page of html of a website of fantasy worlds and an appreciation of V 
-
-we used
+We used
 - body 
 - header
 - paragraph
 - source and 
 - image tags
 
-20 mins internet markdown syntax use more syntax 
-
-# MARKDOWN SYNTAX
+**Markdown syntax**
 
 # heading
 
@@ -51,54 +45,64 @@ Ordered list:
   2. Second item
   3. Third item
 
-horizontal rule ---
-
 [title](https://www.example.com)
 
-![alt text] ![https://images.immediate.co.uk/production/volatile/sites/3/2021/09/daniel-craig-007.jpg-303a730.png
-
-
-# Examples
-
-# Photography Is Wonderful 
+horizontal rule see below 
 
 ---
 
-It is both 
-- art and 
+
+**Example**
+
+# Photography Is Wonderful 
+
+It is both an
+- art and a
 - science 
 
 The **art** is in the eye of the beholder 
 
-The *science* is the technique used to breakdown how the image was created 
+The *science* is the explanation for how the light creates the image 
 
-![A beautiful image with a digital camera](https://unsplash.com/photos/P89LffAnja8)
+A [beautiful image with a digital camera](https://unsplash.com/photos/WCClfaWS6nw "A close up photograpgh of a pink and white shrub")
 
+---
 
+**Request response lifecycle**
 
-
-Request response lifecycle 
 A question = a query 
-Google requests information  - query – asks the database DB.  DB will respond and server sends info to Google
-The DB is not a process – only stores and access rights needed
-Lesson 1 | Class 2 17.01.23
+
+Google requests information  - query – asks the database - DB.  DB will respond and server sends info to Google
+The DB is not a process – only stores infomration and access rights needed
+
+### Lesson 1 | Class 2 17.01.23
+
 Computer language is binary – 1 and 0 – ASCII, machine code, understood by the computer
-Charles Babbage and Ada Lovelace then Alan Turing (film The Enigma Machine)
+
+Charles Babbage and Ada Lovelace then Alan Turing (see film The Enigma Machine)
+
 Tags
-<oi>
+<oi> ordered list
+  
 <li>
-<src>””</src>
-<p>
-<br>
-<a href>
-Structure of coding
+  
+<src>””</src> source 
+  
+<p></p> paragraph 
+  
+<br> break
+  
+<a href> anchor and hyper reference for a hyperlink 
+  
+**Structure of coding**
+  
 Head (the brain)
+  
 Body (your appearance)
 
 Semantic tags 
 Commit to new file = save 
-# in .md is <h1>
-Hypen is bullet points
+
 Pair programming  = geeky speak for collaboration 
 
 Lesson 2 Lab 1b 
