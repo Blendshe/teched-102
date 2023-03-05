@@ -21,7 +21,7 @@
 ### We also learned the basic procedure for creating a website/app:
 - creating a wireframe diagram of a website/app
 - creating a mockup of a website/app
-- *(Pending)* creating a prototype from that mockup for customer approval
+- creating a prototype from that mockup for customer approval
 
 ### Lesson 1 | Class 1 16.01.23 
 
