@@ -386,7 +386,7 @@ VSC is the Terminal
 
 In VSC you write the code - Can’t write code in github – just files and folders
 
-**Github ACP**
+**Github ACP Add Commit Push**
 
 - Git(space)add(space).(press enter)
 
